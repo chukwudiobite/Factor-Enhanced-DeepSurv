@@ -1,5 +1,14 @@
 # Factor-Enhanced-DeepSurv
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Dataset](#dataset)
+- [Methods](#methods)
+- [Performance Metrics](#performance-metrics)
+- [Citation](#citation)
+- [Author](#author)
+
 📌 Project Overview
 
 This repository contains the code and materials for the research paper:
@@ -30,13 +39,7 @@ Optimization: Adam optimizer to minimize cross-entropy loss
 
 Benchmark Comparison:
 
-Cox Proportional Hazards Model
-
-DeepSurv
-
-DeepHit
-
-Random Survival Forest (RSF)
+Cox Proportional Hazards Model, DeepSurv, DeepHit, Random Survival Forest (RSF)
 
 🔢 Performance Metrics
 
@@ -45,17 +48,6 @@ C-Index (Concordance Index)
 Brier Score (BS)
 
 Integrated Brier Score (IBS)
-
-🗂 Repository Structure
-
-fe-deepsurv/
-├── data/                # Cirrhosis dataset (linked or included if license permits)
-├── notebooks/           # Jupyter notebooks or R scripts for modeling and evaluation
-├── src/                 # Source code for factor analysis and neural network
-├── figures/             # Plots, survival curves, model comparison visuals
-├── paper/               # Published paper or preprint version
-├── README.md            # Project summary (this file)
-└── requirements.txt     # Dependencies
 
 📜 Citation
 

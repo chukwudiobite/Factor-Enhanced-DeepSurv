@@ -6,8 +6,6 @@
 - [Dataset](#dataset)
 - [Methods](#methods)
 - [Performance Metrics](#performance-metrics)
-- [Citation](#citation)
-- [Author](#author)
 
 📌 Project Overview
 
@@ -49,15 +47,4 @@ Brier Score (BS)
 
 Integrated Brier Score (IBS)
 
-📜 Citation
 
-If you use this work, please cite:
-
-@article{obite2025fe,
-  title={Factor enhanced DeepSurv: A deep learning approach for predicting survival probabilities in cirrhosis data},
-  author={Obite, Chukwudi Paul and others},
-  journal={Computers in Biology and Medicine},
-  volume={189},
-  year={2025},
-  doi={10.1016/j.compbiomed.2025.109963}
-}
